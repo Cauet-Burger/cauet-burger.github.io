@@ -1,0 +1,16 @@
+a { color : #ffffff;}
+		body, h1, p {
+			color: white;
+			text-align:center;
+		}
+	
+		.page__hero--overlay {
+			background-color:#44bbff;
+			background-image: url(IMAGES/cauetburgerbg.png)
+		}
+    footer {
+            padding: 20px;
+            margin-top: 40px;
+            background-color:#000000;
+			color: white;
+		}
