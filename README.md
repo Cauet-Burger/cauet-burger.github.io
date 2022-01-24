@@ -1,4 +1,4 @@
-# cauet-burger.github.io
+# [cauet-burger.github.io](cauet-burger.github.io)
 Le site officiel du Cauet Burger.
 
 C'est aussi mon devoir de NSI d'ailleurs.
