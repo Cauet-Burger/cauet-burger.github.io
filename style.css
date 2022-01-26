@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand|Source+Sans+Pro&display=swap');
 
 a { color : #ffffff;}
-		body, h1, p {
+		body, h1, h2, h3, p {
 			color: white;
 			text-align:center;
 			font-family: 'Source Sans Pro', sans-serif;
