@@ -20,13 +20,11 @@ a { color : #ffffff;}
 		.mycursor {
 			cursor: url("https://cdn-icons-png.flaticon.com/512/1046/1046784.png"), pointer;
 		}
-		.zoom div img {
-			-webkit-transform: scale(1);
-			transform: scale(1);
+		.opacity1 div img {
+			opacity: 1;
 			-webkit-transition: .3s ease-in-out;
 			transition: .3s ease-in-out;
 		}
-		.zoom div:hover img {
-			-webkit-transform: scale(1.3);
-			transform: scale(1.3);
+		.opacity1 div:hover img {
+			opacity: .5;
 		}
