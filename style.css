@@ -16,15 +16,12 @@ a { color : #ffffff;}
 		.page__hero--overlay {
 			background-color:#44bbff;
 			background-image: url(IMAGES/cauetburgerbg.png)
-		}
-                #footer {
-                        color: black;
-                }
+	
     		footer {
            		padding: 20px;
             		margin-top: 40px;
             		background-color:#FFFFFF;
-			color: white;
+			color: black;
 		}
 		.mycursor {
 			cursor: url("https://cdn-icons-png.flaticon.com/512/1046/1046784.png"), pointer;
