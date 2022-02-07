@@ -1,27 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand|Source+Sans+Pro&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rowdies&display=swap');
 
 a { color : #ffffff;}
-		body, h3, p {
+		body, h1, h2, h3, p {
 			color: white;
 			text-align:center;
 			font-family: 'Source Sans Pro', sans-serif;
 		}
-                h1, h2 {
-                        color: white;
-			text-align:center;
-			font-family: 'Rowdies', cursive;
-                       }
 	
 		.page__hero--overlay {
 			background-color:#44bbff;
 			background-image: url(IMAGES/cauetburgerbg.png)
-	               }
+		}
     		footer {
            		padding: 20px;
             		margin-top: 40px;
             		background-color:#FFFFFF;
-			color: black;
+			color: white;
 		}
 		.mycursor {
 			cursor: url("https://cdn-icons-png.flaticon.com/512/1046/1046784.png"), pointer;
