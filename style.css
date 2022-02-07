@@ -11,7 +11,7 @@ a { color : #ffffff;}
                         color: white;
                         text-align: center;
                         font-family: 'Oswald', sans-serif;
-	
+	        }
 		.page__hero--overlay {
 			background-color:#44bbff;
 			background-image: url(IMAGES/cauetburgerbg.png)
