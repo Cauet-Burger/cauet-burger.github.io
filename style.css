@@ -6,13 +6,11 @@ a { color : #ffffff;}
 			color: white;
 			text-align:center;
 			font-family: 'Source Sans Pro', sans-serif;
-			padding: 10px 50px 20px;
 		}
                 h1, h2 {
                         color: white;
                         text-align: center;
                         font-family: 'Oswald', sans-serif;
-			padding: 10px 50px 20px;
 	        }
 		.page__hero--overlay {
 			background-color:#44bbff;
@@ -55,6 +53,9 @@ a { color : #ffffff;}
 		.shine div:hover::before {
 			-webkit-animation: shine .75s;
 			animation: shine .75s;
+		}
+		.about {
+  		text-align: justify;
 		}
 		@-webkit-keyframes shine {
 			100% {
