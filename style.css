@@ -1,8 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand|Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Poppins&family=Rowdies&display=swap');
 
-a { color : #ffffff;}
-		body, h3, p {
+		a {
+			color : #ffffff;
+		}
+		body {
+			width:100%;
+			color: white;
+			text-align:center;
+			font-family: 'Source Sans Pro', sans-serif;
+		h3, p {
 			color: white;
 			text-align:center;
 			font-family: 'Source Sans Pro', sans-serif;
