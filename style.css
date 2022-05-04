@@ -6,11 +6,13 @@ a { color : #ffffff;}
 			color: white;
 			text-align:center;
 			font-family: 'Source Sans Pro', sans-serif;
+			padding: 1em;
 		}
                 h1, h2 {
                         color: white;
                         text-align: center;
                         font-family: 'Oswald', sans-serif;
+			padding: 1em;
 	        }
 		.page__hero--overlay {
 			background-color:#44bbff;
