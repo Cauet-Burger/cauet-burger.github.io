@@ -6,10 +6,8 @@
 		}
 		body {
 			width:100%;
-			color: white;
-			text-align:center;
-			font-family: 'Source Sans Pro', sans-serif;
-		h3, p {
+		}
+		body, h3, p {
 			color: white;
 			text-align:center;
 			font-family: 'Source Sans Pro', sans-serif;
