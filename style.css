@@ -16,6 +16,9 @@ a { color : #ffffff;}
 			background-color:#44bbff;
 			background-image: url(IMAGES/cauetburgerbg.png)
 		}
+		.navbar navbar-expand-sm navbar-light bg-light {
+			position: fixed;
+		}
     		footer {
            		padding: 20px;
             		margin-top: 40px;
