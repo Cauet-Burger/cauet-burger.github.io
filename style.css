@@ -56,6 +56,7 @@ a { color : #ffffff;}
 		}
 		.about {
   		text-align: justify;
+		left: 30px;
 		}
 		@-webkit-keyframes shine {
 			100% {
