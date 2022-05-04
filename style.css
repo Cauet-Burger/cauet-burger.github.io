@@ -1,38 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand|Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Poppins&family=Rowdies&display=swap');
 
-a { color : #ffffff;}
-		body {
-			color: white;
-			text-align:center;
-			font-family: 'Source Sans Pro', sans-serif;
-			width: 500px;
-  			height: 1400px;
-  			margin: 0 auto;
+		a { color : #ffffff;
 		}
-		h3,p {
+		body, h3, p {
 			color: white;
 			text-align:center;
 			font-family: 'Source Sans Pro', sans-serif;
-			position: fixed;
-  			top: 0;
-  			width: 500px;
-  			margin: 0 auto;
-  			padding: 10px;
 		}
                 h1, h2 {
                         color: white;
                         text-align: center;
                         font-family: 'Oswald', sans-serif;
-			position: fixed;
-  			top: 0;
-  			width: 500px;
-  			margin: 0 auto;
-  			padding: 10px;
 	        }
 		.page__hero--overlay {
 			background-color:#44bbff;
-			background-image: url(IMAGES/cauetburgerbg.png)
 		}
     		footer {
            		padding: 20px;
