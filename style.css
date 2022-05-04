@@ -59,7 +59,7 @@ a { color : #ffffff;}
 		}
 		.about {
   		text-align: justify;
-		left: 30px;
+		padding: 15px;
 		}
 		@-webkit-keyframes shine {
 			100% {
