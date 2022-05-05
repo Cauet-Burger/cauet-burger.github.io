@@ -22,7 +22,9 @@
 			background-image: url(IMAGES/cauetburgerbg.png)
 		}
 		.navbar navbar-expand-sm navbar-light bg-light {
-			position: fixed;
+			margin-top: 100px;
+    			z-index: 0;
+			position: absolute;
 		}
     		footer {
            		padding: 20px;
