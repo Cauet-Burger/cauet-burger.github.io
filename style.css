@@ -44,13 +44,3 @@
   		text-align: justify;
 		padding: 35px;
 		}
-		@-webkit-keyframes shine {
-			100% {
-				left: 125%;
-			}
-		}
-		@keyframes shine {
-			100% {
-				left: 125%;
-			}
-		}
