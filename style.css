@@ -44,3 +44,6 @@
   		text-align: justify;
 		padding: 35px;
 		}
+		.nav-link active {
+		padding: 9px;
+		}
