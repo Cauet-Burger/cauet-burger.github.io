@@ -51,6 +51,12 @@
 		.CBT {
 		image-resolution: initial;
 		}
+		.head {
+			background-color:#ffe600;
+			color:#000000;
+		}
 		head {
-			background-color:#FF0F00;
+			position: sticky;
+			top: 30px;
+			left: 30px;
 		}
