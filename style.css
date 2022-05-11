@@ -25,6 +25,8 @@
 			margin-top: 100px;
     			z-index: 0;
 			position: absolute;
+			background-color:#000000;
+			color:#ffffff;
 		}
     		footer {
            		padding: 20px;
