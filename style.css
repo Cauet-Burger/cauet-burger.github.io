@@ -59,4 +59,7 @@
 			position: sticky;
 			top: 30px;
 			left: 30px;
+			text-align: justify;
+			padding: 35px;
+			color: black;
 		}
