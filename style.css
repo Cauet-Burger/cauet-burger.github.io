@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand|Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Poppins&family=Rowdies&display=swap');
 
+		.footer {
+			
+			color:#000000;
+		}
 		a {
 			color : #ffffff;
 		}
