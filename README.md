@@ -1,3 +1,5 @@
+# Le site est en reconstruction, certaines pages peuvent ne plus fonctionner et des choses peuvent changer.
+
 # [cauet-burger.github.io](https://cauet-burger.github.io/)
 Le site officiel du Cauet Burger.
 
