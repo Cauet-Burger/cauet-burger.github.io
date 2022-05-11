@@ -32,8 +32,10 @@
            		padding: 20px;
 			padding-top: 10px;
             		margin-top: 5px;
-            		background-color:#000000;
-			color: white;
+            		background-color:#FFF8F9FB;
+		}
+		.footer {
+			color:black;
 		}
 		.opacity1 div img {
 			opacity: 1;
