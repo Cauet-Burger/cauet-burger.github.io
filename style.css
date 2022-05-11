@@ -64,10 +64,10 @@
 			color:#000000;
 		}
 		head {
-			position: sticky;
+			position: absolute;
 			top: 30px;
 			left: 30px;
 			text-align: justify;
-			padding: 35px;
+			padding: 45px;
 			color: black;
 		}
