@@ -45,6 +45,8 @@
 			opacity: 1;
 			-webkit-transition: .3s ease-in-out;
 			transition: .3s ease-in-out;
+                        height: 288vh;
+                        width: 512vw;
 		}
 		.opacity1 div:hover img {
 			opacity: .5;
