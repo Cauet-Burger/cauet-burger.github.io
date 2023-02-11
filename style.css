@@ -50,9 +50,9 @@
 			opacity: .5;
 		}
 		.about {
-  		text-align: justify;
-		padding: 20px;
-		padding-top: 10px;
+  			text-align: justify;
+			padding: 40px;
+			padding-top: 10px;
 		}
 		.nav-link active {
 		padding: 9px;
@@ -73,6 +73,6 @@
 			color: black;
 		}
 		img {
-    		max-width: 100%;
-    		height: auto;
+    			max-width: 100%;
+    			height: auto;
 		}
