@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand|Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Poppins&family=Rowdies&display=swap');
+@import url('https://fonts.cdnfonts.com/css/product-sans');
 
 		.footer {
 			
@@ -10,22 +11,25 @@
 		}
 		body {
 			width:100%;
+			background-color:#44bbff;
+			background-image: url(IMAGES/cauetburgerbg.png);
+		    background-attachment: fixed;
 		}
-		body, h3, p {
+		h3, p {
 			color: white;
-			text-align:center;
+
 			font-family: 'Source Sans Pro', sans-serif;
 		}
-                h1, h2, h4 {
+                h1, h2, h4, h5 {
                         color: white;
-                        text-align: center;
                         font-family: 'Oswald', sans-serif;
+						text-shadow: 2px 2px 4px #000000;
 	        }
-		.page__hero--overlay {
-			background-color:#44bbff;
-			background-image: url(IMAGES/cauetburgerbg.png)
+		.page {
+			margin-right: 11%;
+			margin-left: 11%;
 		}
-		.navbar navbar-expand-sm navbar-light bg-light {
+		.navbar .navbar-expand-sm .navbar-light .bg-light {
 			margin-top: 100px;
     			z-index: 0;
 			position: absolute;
@@ -36,10 +40,11 @@
            		padding: 20px;
 			padding-top: 10px;
             		margin-top: 5px;
-            		background-color:#FFF8F9FB;
+            		background-color:#343a40;
+					color: white;
 		}
-		.page__footer-follow {
-			color:black;
+		.footer {
+			color: white;
 		}
 		.opacity1 div img {
 			opacity: 1;
@@ -53,12 +58,12 @@
   			text-align: justify;
 			padding: 40px;
 			padding-top: 10px;
-		}
-		.nav-link active {
-		padding: 9px;
+			color: white;
 		}
 		.CBT {
 		image-resolution: initial;
+		font-family: 'Product Sans', sans-serif;
+		color: white;
 		}
 		.head {
 			background-color:#ffe600;
@@ -80,3 +85,101 @@
 			max-width: 100%;
 			max-height: 100%;
 }
+		small {
+			color: white;
+		}
+		.footer-text {
+			color: white;
+		}
+		.remerciements {
+			margin-right: 6%;
+			margin-left: 6%;
+			text-alignn: justify;
+			color: white;
+		}
+		.collage {
+			color: white;
+		}
+		.collage-m {
+			padding-left: 24%;
+			padding-right: 36%;
+		}
+		.mini-affiches {
+			margin-left: 1px;
+			margin-right: 1px;
+		}
+		.affiches_maps {
+			border-radius: 8px;
+			border-color: white;
+		}
+		.hr-mini-city {
+			background-color: white;
+			height: 2px;
+			border-radius: 5px;
+			width: 10%;
+			box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+		}
+		.hr-a-propos {
+			background-color: white;
+			height: 2px;
+			border-radius: 5px;
+			width: 24%;
+			box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+		}
+		.hr-collage {
+			background-color: white;
+			height: 2px;
+			border-radius: 5px;
+			width: 24%;
+			box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+		}
+		.img-grid {
+			margin-top: 15px;
+		}
+		.grid-title {
+			padding-top: 7px;
+			
+		}
+		.grid {
+			width:335px;
+			height:250px;
+			float: left;
+			border-radius: 10px;
+			border: 1px solid #fff;
+			margin: 8px auto;	
+		}
+		.grid-desc {
+			color: white;
+			margin: 3px;
+		}
+		.grid-small {
+			color: white;
+		}
+		.grid-bigger {
+			width:335px;
+			height:295px;
+			float: left;
+			border-radius: 10px;
+			border: 1px solid #fff;
+			margin: 8px auto;
+			text-shadow: 2px 2px 4px #000000;
+			background-color: #c4d9e5;
+		}
+		.container {
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+		}
+		button {
+			margin: 6px;
+		}
+		.tweet {
+			border-radius: 15px;
+		}
+		ul, li {
+			color:white;
+		}
+		.grid-social {
+			border-radius: 15px;
+			border-color: white;
+		}
