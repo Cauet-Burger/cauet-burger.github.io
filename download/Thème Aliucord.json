@@ -1,0 +1,42 @@
+{
+    "manifest": {
+        "author": "Léxouille™#2911",
+        "name": "Cauet Burger",
+        "version": "1.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/879469727255244801\/928453827701657640\/IMG_20220106_020106.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -16746039,
+        "mention_highlight": 273530085,
+        "statusbar": -16777216
+    },
+    "colors": {},
+    "drawable_tints": {
+        "ic_verified_badge": -2127788,
+        "ic_verified_badge_banner": -2127788,
+        "ic_hypesquad_house3_32dp": -2127788,
+        "ic_hypesquad_house2_32dp": -2127788,
+        "ic_hypesquad_house1_32dp": -2127788,
+        "ic_profile_badge_verified_developer_32dp": -2127788,
+        "ic_profile_badge_staff_32dp": -2127788,
+        "ic_profile_badge_partner_32dp": -2127788,
+        "ic_profile_badge_bughunter_level_1_32dp": -2127788,
+        "ic_profile_badge_certified_moderator_32dp": -2127788,
+        "ic_hypesquad_house1_winner_32dp": -2127788,
+        "ic_hypesquad_house2_winner_32dp": -2127788,
+        "ic_hypesquad_house3_winner_32dp": -2127788,
+        "ic_profile_badge_hypesquad_32dp": -2127788,
+        "ic_profile_badge_bughunter_level_2_32dp": -2127788
+    },
+    "raws": {
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/852632026414448690\/928443854045216828\/FullSizeRender_2.mp3",
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/852632026414448690\/928443854045216828\/FullSizeRender_2.mp3",
+        "user_join": "https:\/\/cdn.discordapp.com\/attachments\/879469727255244801\/928447850306740274\/lv_0_20220106013604.mp3",
+        "user_leave": "https:\/\/cdn.discordapp.com\/attachments\/852632026414448690\/928450764089737256\/FullSizeRender_3.mp3",
+        "mute": "https:\/\/cdn.discordapp.com\/attachments\/858694966506815543\/928612628807417896\/FullSizeRender_3-1.mp3",
+        "unmute": "https:\/\/cdn.discordapp.com\/attachments\/858694966506815543\/928612628807417896\/FullSizeRender_3-1.mp3"
+    }
+}
