@@ -1,8 +1,9 @@
 
 # [cauet-burger.github.io](https://cauet-burger.github.io/)
-Le site officiel du Cauet Burger.
+Le site officiel de la lutte pour le retour du Cauet Burger.
 
-## Crédits 
-- [FC Cauet Burger](https://github.com/Cauet-Burger) : développement principal du projet.
-- [MyBurger.fr](https://www.myburger.fr/) : images du Cauet Burger de 2006.
-- [PotinsMédias](https://potinsmedias.wordpress.com) : images des Cauet  Burger de 2022.
+# Crédits 
+Les crédits complets peuvent être trouvés [ici](https://cauet-burger.github.io/a-propos).
+
+# Licence 
+Ce projet ne dispose pas de licence, vous pouvez donc réutiliser les éléments de ce site librement, sans préavis.
