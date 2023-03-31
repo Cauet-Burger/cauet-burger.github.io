@@ -9,4 +9,4 @@ Les crédits complets peuvent être trouvés [ici](https://cauet-burger.github.i
 Ce projet ne dispose pas de licence, vous pouvez donc réutiliser les éléments de ce site librement, sans préavis.
 
 # Statut 
-``Maintenance en cours sur les pages "accueil" et "téléchargements" (modification de plusieurs éléments)``
+``En ligne``
