@@ -1,3 +1,4 @@
+![alt text](https://cauet-burger.github.io/IMAGES/repo_banner.png)
 
 # [cauet-burger.github.io](https://cauet-burger.github.io/)
 Le site officiel de la lutte pour le retour du Cauet Burger.
