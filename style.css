@@ -1,7 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand|Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Poppins&family=Rowdies&display=swap');
 @import url('https://fonts.cdnfonts.com/css/product-sans');
-
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@800&display=swap');
+.warning {
+	color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: rgb(252,252,138);
+	background: linear-gradient(128deg, rgba(252,252,138,1) 0%, rgb(233, 205, 0) 35%);
+	border-radius: 9px;
+	margin: 5px;
+	font-size: 19px;
+	font-family: 'Unbounded', sans-serif;
+}
+	
 		.footer {
 			
 			color:#000000;
