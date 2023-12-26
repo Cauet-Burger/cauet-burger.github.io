@@ -4,8 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@800&display=swap');
 .warning {
 	color: black;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding: 10px;
 	background: rgb(252,252,138);
 	background: linear-gradient(128deg, rgba(252,252,138,1) 0%, rgb(233, 205, 0) 35%);
 	border-radius: 9px;
@@ -97,9 +96,6 @@
 			max-width: 100%;
 			max-height: 100%;
 }
-		small {
-			color: white;
-		}
 		.footer-text {
 			color: white;
 		}
