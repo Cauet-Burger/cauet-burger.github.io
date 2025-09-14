@@ -1,0 +1,30 @@
+{
+    "navigationItems": [
+        {
+            "name": "Accueil",
+            "url": "/",
+            "id": "accueilLink",
+            "icon": "<i class=\"fa-solid fa-house\"></i>",
+            "category": "nav-link"
+        },
+        {
+            "name": "Téléchargements",
+            "url": "../telechargements/",
+            "id": "telechargementsLink",
+            "icon": "<i class=\"fas fa-file-download\"></i>",
+            "category": "nav-link"
+        },
+        {
+            "name": "Histoire",
+            "url": "../histoire/",
+            "id": "aproposLink",
+            "category": "nav-link"
+        },
+        {
+            "name": "À propos",
+            "url": "../a-propos/",
+            "id": "aproposLink",
+            "category": "nav-link"
+        }
+    ]
+}
